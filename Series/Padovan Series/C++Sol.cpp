@@ -1,7 +1,7 @@
 int pad(int n) 
 { 
 
-    int prevprev = 1, prev = 1, curr = 1, next = 1; 
+    int prevprev = 1, prev = 1, curr = 1, next = 1 , rev=1; 
   
     for (int i=3; i<=n; i++) 
     { 
